@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@citation-js/core": "^0.6.5",
+    "@citation-js/plugin-csl": "^0.6.7",
     "next": "canary",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
