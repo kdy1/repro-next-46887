@@ -1,6 +1,11 @@
+'use client'
+
 // @ts-ignore
 import { Cite } from "@citation-js/core";
 import "@citation-js/plugin-csl";
+
+export const dynamic = "force-dynamic";
+
 
 const reference = { id: 'a', title: 'Item A', issued: { 'date-parts': [[2016]] } };
 
