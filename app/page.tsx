@@ -1,5 +1,3 @@
-'use client'
-
 // @ts-ignore
 import { Cite } from "@citation-js/core";
 import "@citation-js/plugin-csl";
